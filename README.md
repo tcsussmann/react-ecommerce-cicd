@@ -2,6 +2,10 @@
 
 A React e-commerce application built as part of the Coding Temple Software Development program. This project replaces the previous FakeStore API implementation with **Firebase Authentication** and **Cloud Firestore** for user and product management, shopping carts, and order history.
 
+## Live Application
+
+[Live React E-Commerce Application]([text](https://react-ecommerce-cicd.vercel.app/))
+
 ## Features
 
 ### User Authentication
@@ -62,13 +66,13 @@ You will need:
 Clone the repository:
 
 ```bash
-git clone https://github.com/tcsussmann/react-firebase-ecommerce.git
+git clone https://github.com/tcsussmann/react-ecommerce-cicd.git
 ```
 
 Navigate into the project:
 
 ```bash
-cd react-firebase-ecommerce
+cd react-ecommerce-cicd
 ```
 
 Install dependencies:
